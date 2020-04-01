@@ -1,0 +1,7 @@
+dependencies:
+- host: github.com
+  owner: jmoliva
+  repo: qs-jx-v3
+  url: https://github.com/jmoliva/qs-jx-v3.git
+  version: ""
+  versionURL: ""
