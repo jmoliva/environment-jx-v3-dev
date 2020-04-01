@@ -1,0 +1,21 @@
+apiVersion: jenkins.io/v1
+kind: SourceRepository
+metadata:
+  creationTimestamp: null
+  labels:
+    owner: jmoliva
+    provider: github
+    repository: qs-jx-v3
+  name: jmoliva-qs-jx-v3
+spec:
+  description: Imported application for jmoliva/qs-jx-v3
+  httpCloneURL: https://github.com/jmoliva/qs-jx-v3.git
+  org: jmoliva
+  provider: https://github.com
+  providerKind: github
+  providerName: github
+  repo: qs-jx-v3
+  scheduler:
+    kind: ""
+    name: ""
+  url: https://github.com/jmoliva/qs-jx-v3.git
